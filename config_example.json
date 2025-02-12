@@ -1,0 +1,13 @@
+{
+  // database settings
+  "host": "127.0.0.1",
+  "port": "3306",
+  "database": "topicgram",
+  "user": "root",
+  "password": "password",
+  // bot settings
+  "token": "23333:ABCDEFGHIJKL",
+  "owner_id": 10001,
+  // If enabled, even if a user deletes a bot, they will not actually be deleted from the database, but will be marked as "deteled".
+  "enable_audit": true
+}
